@@ -1,0 +1,10 @@
+Kia,Optima,2018,12000
+Suzuki,Vitara,2004,75400
+Hyundai,Sonota,2019
+Acura,TLX,2015,32277
+Saturn,Aura,2009,90000
+Aston Martin,2019,3000
+Toyota,Camry,2017,41001
+Audi,A4,2012,35300,87000
+Subaru,Forester,2008,38913
+Honda,Civic,2013,55000
